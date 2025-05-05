@@ -1,0 +1,35 @@
+ Title: How to Dry Wet Canon PowerShot SD850 IS Camera Components
+ URL: https://www.ifixit.com/Guide/How+to+Dry+Wet+Canon+PowerShot+SD850+IS+Camera+Components/1352
+
+ Required Tools:
+- metal spudger (https://www.ifixit.com/Tools/Metal-Spudger/IF145-012)
+- phillips screwdriver (http://www.ifixit.com/Tools/Phillips-1-Screwdriver/IF145-021)
+- spudger (http://www.ifixit.com/Tools/Spudger/IF145-002)
+
+ Steps:
+
+Step 0:
+- identify the battery port on the underside of the camera .
+
+Step 1:
+- using your thumb , slide the port to the right and release .
+
+Step 2:
+- remove the battery .
+
+Step 3:
+- to avoid severe electric shock do not remove or tamper with internal camera flash components . an electrical capacitor is attached to the flash that can discharge if contact is made .
+- remove the two side screws , indicated by the red circles , using a phillips 00 screwdriver .
+- remove the screw in the battery port , indicated by the blue circle , again using a phillips 00 screwdriver .
+- remove the front face by gently peeling the housing away from the camera .
+
+Step 4:
+- remove the back face by using a spudger to lift the tab highlighted in yellow
+- pivot the back face clockwise as seen in the second photo .
+
+Step 5:
+- remove the a/v port cover no tools are necessary
+
+Step 6:
+- use compressed air to dry off camera's internal components .
+- use caution when performing this step . compressed air could possibly damage components if sprayed directly at connections or other sensitive areas .

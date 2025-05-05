@@ -1,0 +1,65 @@
+ Title: Canon PowerShot SD850 IS LCD Screen Replacement
+ URL: https://www.ifixit.com/Guide/Canon+PowerShot+SD850+IS+LCD+Screen+Replacement/1356
+
+ Required Tools:
+- ph00 phillips screwdriver (https://www.ifixit.com/Store/Parts/Phillips-00-Screwdriver/IF145-006)
+- metal spudger (https://www.ifixit.com/Tools/Metal-Spudger/IF145-012)
+- ph0 phillips screwdriver (http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005)
+- spudger (http://www.ifixit.com/Tools/Spudger/IF145-002)
+- tweezers (http://www.ifixit.com/Tools/Tweezers/IF145-020-5)
+
+ Steps:
+
+Step 0:
+- using your fingernail , slide the light gray tab towards edge of camera .
+- slide the light gray door and pull up to open the door .
+- in the camera shown in the photos , there is not a memory card or battery .
+- both battery and memory card slots should be visible .
+
+Step 1:
+- use your fingernail and slide the small brown tab towards the edge of the camera .
+- the battery will pop up .
+- pull battery straight out of battery holder .
+- when putting the battery back in , make sure it the battery is oriented so the terminals connect .
+
+Step 2:
+- remove the following 4 screws :
+- two 2.8 mm phillips 00 at the bottom of the camera .
+- two 2.75 mm phillips 00 on the opposite side of the wrist strap .
+
+Step 3:
+- open the a/v out digital flap on the side of the wrist strap .
+- remove the 2.75 mm phillips 00 under the a/v out digital flap on the side of the wrist strap .
+
+Step 4:
+- on the bottom of the camera , use your fingernail to slide the light gray tab towards the edge of the camera .
+- slide light gray door and pull up to open the door .
+- remove the 8.35 mm phillips 00 next to the brown tab that holds the battery .
+
+Step 5:
+- gently pull the front cover straight out from the camera . this will expose the wiring on the front of the camera .
+
+Step 6:
+- remove the 2.75 mm phillips 00 next to a/v out digital .
+
+Step 7:
+- slide the back casing ( with the screen protector ) off to reveal the lcd and back wiring .
+
+Step 8:
+- remove the three screws attached to the bottom of the lcd brackets
+
+Step 9:
+- remove the one quarter bracket around the lcd screen
+- remove the three quarter bracket around the lcd screen .
+
+Step 10:
+- please note : there are two areas of interest before removing the final bracket .
+- first , use a spudger to pry the the two tabs from the small guide pins .
+- second , slide the bracket to the right as indicated in the second picture while lifting up . a small tab is holding the final bracket in place .
+- remove the square metal bracket .
+
+Step 11:
+- at this point the screen should be easy to lift from the camera body .
+
+Step 12:
+- lift the lcd screen and remove the two ribbon cables .

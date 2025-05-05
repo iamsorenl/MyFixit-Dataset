@@ -1,0 +1,17 @@
+ Title: RIDGID R84015 X2 Case Removal
+ URL: https://www.ifixit.com/Guide/RIDGID+R84015+X2+Case+Removal/2676
+
+ Required Tools:
+- phillips 2 screwdriver (http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032)
+- t20 torx screwdriver (https://www.ifixit.com/Store/Tools/54-Bit-Driver-Kit/IF145-299)
+
+ Steps:
+
+Step 0:
+- using a torx t20 screwdriver , remove the four screws attaching the back plate .
+
+Step 1:
+- remove the five screws attaching the drill handle .
+
+Step 2:
+- remove the 4 screws attaching the front of the casing .

@@ -1,0 +1,31 @@
+ Title: RIDGID R84015 X2 Planetary Gear Replacement Guide
+ URL: https://www.ifixit.com/Guide/RIDGID+R84015+X2+Planetary+Gear+Replacement+Guide/2675
+
+ Required Tools:
+- phillips 2 screwdriver (http://www.ifixit.com/Tools/Phillips-2-Screwdriver/IF145-032)
+- t20 torx screwdriver (https://www.ifixit.com/Store/Tools/54-Bit-Driver-Kit/IF145-299)
+
+ Steps:
+
+Step 0:
+- using a torx t20 screwdriver , remove the four screws attaching the back plate .
+
+Step 1:
+- remove the five screws attaching the drill handle .
+
+Step 2:
+- remove the 4 screws attaching the front of the casing .
+
+Step 3:
+- unscrew the four screws at the rear of the plastic gear chamber .
+
+Step 4:
+- remove the motor from the drill .
+- note : handle the gear chamber with caution as the gears are now loose .
+
+Step 5:
+- remove the four screws that attach the plastic gear chamber .
+- remove the plastic gear chamber .
+
+Step 6:
+- remove each component from the gear assembly .

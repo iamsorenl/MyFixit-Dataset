@@ -1,0 +1,56 @@
+ Title: PowerBook G3 Wallstreet Hard Drive Replacement
+ URL: https://www.ifixit.com/Guide/PowerBook+G3+Wallstreet+Hard+Drive+Replacement/4
+
+ Required Tools:
+- ph0 phillips screwdriver (http://www.ifixit.com/Tools/Phillips-0-Screwdriver/IF145-005)
+- t8 torx screwdriver (https://www.ifixit.com/Store/Tools/TR8-Torx-Security-Screwdriver/IF145-027)
+
+ Steps:
+
+Step 0:
+- remove both expansion bay modules using the levers on the front of the computer .
+- insert your index fingers inside the expansion bays and search for the two ribbed tabs on the underside of the upper case . the tabs are located near the bottom corners of the keyboard .
+- pull the tabs toward yourself and the keyboard will pop up .
+
+Step 1:
+- pull the keyboard forward to disengage the tabs holding it in back and rotate it toward you .
+- rest the keyboard on the trackpad .
+
+Step 2:
+- this is a diagram of the ribbon clamp connectors you will disconnect in the next step .
+- 1 ) with your fingernails , grasp the locking bar on either side and pull up a small amount ( about 1 /16 or 2 mm ) .
+- 2 ) after disengaging the locking bar , slide the cable out of the connector .
+
+Step 3:
+- disconnect the two keyboard connectors by disengaging the clamps and pulling the ribbons directly upward .
+
+Step 4:
+- slide a spudger downward between each plastic strain relief cable and the wall of the case in order to bow out the cable beyond the small tab holding it in place .
+- once the strain relief cables are free , lift the keyboard off .
+
+Step 5:
+- your laptop should look approximately like this .
+
+Step 6:
+- remove the two phillips screws from the heat shield .
+- one screw is shorter than the other . when putting the wallstreet back together , this screw goes in the middle of the heat shield .
+
+Step 7:
+- grasp the metal handle on the heat shield and pull up and toward yourself .
+
+Step 8:
+- unscrew , but do not remove , the single phillips screw from the hard drive bracket .
+
+Step 9:
+- grasp the hard drive bracket on the left side and pull up and to the left .
+
+Step 10:
+- your laptop should look approximately like this .
+
+Step 11:
+- remove the four t8 torx screws from the hard drive bracket .
+
+Step 12:
+- turn the hard drive bracket over .
+- hold the hard drive bracket at the connector end and grasp the opposite end of the hard drive .
+- pull the hard drive out of the bracket , making sure to pull evenly on both sides .

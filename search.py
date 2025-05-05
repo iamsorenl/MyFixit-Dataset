@@ -100,7 +100,8 @@ if __name__ == '__main__':
 
     if out_format == 'json':
         with open(output + '.json', 'w+') as f:
-            json.dump(jlist, f)
+            # Wrap the list in a dictionary with a key like "manuals"
+            json.dump({"manuals": jlist}, f, indent=4)  # Add indentation for readability
 
         print('Selected manuals are saved in {}'.format(output + '.json'))
 
